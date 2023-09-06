@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;800&family=Raleway:wght@400;600&display=swap");
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Raleway";
+  transition: 0.25s;
+  color: white;
+  background-color: inherit;
+
+}
+
+.container {
+    background-color: white;
+}
+
+.welcome {
+  display: flex;
+  padding: 3rem 0 0 0;
+  font-family: "Raleway";
+  font-weight: 100;
+  color: inherit;
+  font-size: 4.5rem;
+  align-items: center;
+  text-shadow: -1px 1px 4px gray;
+  background-color: inherit;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+  white-space: pre;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: 0.25s;
+
+}
+
+.question {
+  display: flex;
+  font-family: "Open Sans";
+  color: inherit;
+  font-size: 1rem;
+}
+
+.why {
+  margin-bottom: 20%;
+}
+button:hover {
+  color: grey;
+}
+
+.bio {
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sans";
+  color: inherit;
+  text-align:justify;
+  line-height: 1.5rem;
+  padding: 1.5rem 0 1.5rem 0;
+}

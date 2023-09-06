@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color: white
+}
+
+.App-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: inherit;
+  font-family: 'Raleway';
+  color: white;
+  margin-left: 2rem;
+  margin-right: 1rem;
+  padding: 0.5rem 0 0 0;  
+}
+
+a {
+  all: unset;
+  margin-right: 1rem;
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+a:hover {
+  color: grey
+}

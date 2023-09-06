@@ -1,0 +1,53 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-content:space-between;
+    transition-delay: 2.5s;
+}
+
+.resume-cv {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-top: 2rem;
+}
+
+.option {
+    margin: 0 1rem 1rem 1rem;
+    font-family: 'Open Sans';
+    font-size: 1rem;
+}
+
+.selected {
+    border-bottom: solid thin white;
+}
+
+.unselected {
+    border-bottom: solid thin transparent;
+}
+
+.unselected:hover {    
+    border-bottom: solid thin gray;
+}
+
+.selected:hover {    
+    border-bottom: solid thin gray;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-items:left;
+    text-align: justify;
+    width: 100%;
+}
+
+.resume-cv-download {
+    margin-top: 2rem;
+    margin-bottom: 3rem; 
+}
+
+.resume-cv-download-button {
+    padding: 1rem 1rem 1rem 1rem;
+    border: solid thin white;
+}

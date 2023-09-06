@@ -1,0 +1,30 @@
+.resume-content {
+    margin: 0  2rem 0 2rem;
+}
+
+.skills {
+    padding-left: 0;
+}
+
+.list-header {
+    border-bottom: thin solid white;
+}
+
+li:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 1rem;
+    font-family: "Open Sans";
+    font-weight: normal;
+    white-space: pre;
+}
+
+h3 {
+    font-size: 1rem;
+    font-family: "Raleway";
+    font-weight: normal;
+    
+}
+
