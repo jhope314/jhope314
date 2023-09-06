@@ -5,7 +5,7 @@
 
 .App-header {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
   background-color: inherit;
@@ -13,7 +13,8 @@
   color: white;
   margin-left: 2rem;
   margin-right: 1rem;
-  padding: 0.5rem 0 0 0;  
+  padding: 0.5rem 0 0 0;
+  object-fit: contain;  
 }
 
 a {
@@ -25,4 +26,18 @@ a {
 
 a:hover {
   color: grey
+}
+
+.logo {
+  object-fit: contain;
+  height: 2em;
+  display: flex;
+  align-items: center;
+  flex: 0 1 auto;
+}
+
+.logolink {
+  height: inherit;
+  object-fit: contain;
+  margin-right: 0;
 }

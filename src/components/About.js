@@ -20,7 +20,7 @@ const About = () => {
         <Bio />
       </div>
       <div className="picture">
-        <img src={Self}  alt=""></img>
+        <img src={Self}  alt="" className="self"></img>
       </div>
     </motion.div>
   );

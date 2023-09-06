@@ -49,7 +49,7 @@ hr {
     align-items: flex-start;
 }
 
-img {
+.self {
     max-width:100%;
     height: auto;
     border-radius: 50%;

@@ -5,6 +5,8 @@ import Resume from "./components/Resume";
 import Projects from "./components/Projects";
 import { Routes, Route, Link, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
+import LinkedInLogo from "./images/linkedinlogo.png";
+import GitHubLogo from "./images/github.png";
 
 function App() {
   const location = useLocation();
@@ -15,11 +17,10 @@ function App() {
           <Link to="/jhope314">Home</Link>
           <Link to="/about">About Me</Link>
           <Link to="/resume">Resume</Link>
-          <Link to="/projects">Projects</Link>
         </div>
-        <div>
-          <a>LinkedIn</a>
-          <a>Email</a>
+        <div className="logo">
+        <Link to="https://www.linkedin.com/in/jennifer-heckel/" className="logolink"><img src={LinkedInLogo} alt="LinkedIn" className="logolink" /></Link>
+        <Link to="https://github.com/jhope314" className="logolink"><img src={GitHubLogo} alt="GitHub" className="logolink"/></Link>
         </div>
       </header>
       <AnimatePresence mode="wait">

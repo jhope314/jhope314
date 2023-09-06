@@ -12,7 +12,7 @@ const Intro = (props) => {
       <p>
         Hopefully, it's to find out a little bit more about me, Jennifer Heckel.{" "}
         <br /> Please feel free to explore and find out more details on who I
-        am, my work history, and projects that I've worked on.
+        am and my work history.
       </p>
       <p>Not sure where to start? No problem . . .</p>
       {/* prettier-ignore */}

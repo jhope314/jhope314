@@ -18,8 +18,7 @@ const Bio = () => {
       <p>
         Since then, I have graduated from university, and I am excited to bring
         my skills into the workforce. Please feel free to browse my resume to
-        see my education, skills, and work history in more detail, as well as my
-        projects to see examples of solutions I'm able to deliver.
+        see my education, skills, and work history in more detail.
       </p>
       <p>Thank you,</p>
       <p>Jennifer Heckel</p>
