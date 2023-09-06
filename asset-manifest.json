@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jhope314/static/css/main.3c19f18d.css",
+    "main.js": "/jhope314/static/js/main.66407c70.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jhope314/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Heckel_Jennifer_Resume_Technical_2023_August.pdf": "/jhope314/static/media/Heckel_Jennifer_Resume_Technical_2023_August.baaa8c4e9a35a8ef22ee.pdf",
+    "static/media/Self.jpg": "/jhope314/static/media/Self.5eb8f3a74999b90b018d.jpg",
+    "static/media/Heckel_Jennifer_Cover_Letter.pdf": "/jhope314/static/media/Heckel_Jennifer_Cover_Letter.907145eb552396e9aa96.pdf",
+    "index.html": "/jhope314/index.html",
+    "main.3c19f18d.css.map": "/jhope314/static/css/main.3c19f18d.css.map",
+    "main.66407c70.js.map": "/jhope314/static/js/main.66407c70.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jhope314/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c19f18d.css",
+    "static/js/main.66407c70.js"
+  ]
+}
