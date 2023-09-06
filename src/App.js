@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <Link to="/">Home</Link>
+          <Link to="/jhope314">Home</Link>
           <Link to="/about">About Me</Link>
           <Link to="/resume">Resume</Link>
           <Link to="/projects">Projects</Link>
@@ -24,7 +24,7 @@ function App() {
       </header>
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<WelcomePage />} />
+          <Route path="/jhope314" element={<WelcomePage />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/projects" element={<Projects />} />
