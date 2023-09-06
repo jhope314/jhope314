@@ -43,11 +43,15 @@
 }
 
 .resume-cv-download {
+    display: flex;
     margin-top: 2rem;
     margin-bottom: 3rem; 
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .resume-cv-download-button {
     padding: 1rem 1rem 1rem 1rem;
+    margin: 0 1rem 1rem 1rem;
     border: solid thin white;
 }
