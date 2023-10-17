@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jhope314/static/css/main.98715c75.css",
-    "main.js": "/jhope314/static/js/main.873c72f5.js",
+    "main.css": "/jhope314/static/css/main.c4207775.css",
+    "main.js": "/jhope314/static/js/main.a0eeb0d6.js",
     "static/js/787.28cb0dcd.chunk.js": "/jhope314/static/js/787.28cb0dcd.chunk.js",
     "static/media/Heckel_Jennifer_Resume_Technical_2023_August.pdf": "/jhope314/static/media/Heckel_Jennifer_Resume_Technical_2023_August.baaa8c4e9a35a8ef22ee.pdf",
     "static/media/Self.jpg": "/jhope314/static/media/Self.5eb8f3a74999b90b018d.jpg",
@@ -9,12 +9,12 @@
     "static/media/github.png": "/jhope314/static/media/github.f260637be33e75188227.png",
     "static/media/linkedinlogo.png": "/jhope314/static/media/linkedinlogo.c593fb09e0e564af375e.png",
     "index.html": "/jhope314/index.html",
-    "main.98715c75.css.map": "/jhope314/static/css/main.98715c75.css.map",
-    "main.873c72f5.js.map": "/jhope314/static/js/main.873c72f5.js.map",
+    "main.c4207775.css.map": "/jhope314/static/css/main.c4207775.css.map",
+    "main.a0eeb0d6.js.map": "/jhope314/static/js/main.a0eeb0d6.js.map",
     "787.28cb0dcd.chunk.js.map": "/jhope314/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98715c75.css",
-    "static/js/main.873c72f5.js"
+    "static/css/main.c4207775.css",
+    "static/js/main.a0eeb0d6.js"
   ]
 }
