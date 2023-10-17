@@ -10,6 +10,15 @@ import GitHubLogo from "./images/github.png";
 
 function App() {
   const location = useLocation();
+
+  const openLinkedIn = () => {
+    window.open("https://www.linkedin.com/in/jennifer-heckel/", "_blank")
+  };
+
+  const openGitHub = () => {
+    window.open("https://github.com/jhope314", "_blank")
+  };
+
   return (
     <div className="App">
       <header className="App-header">
@@ -19,8 +28,8 @@ function App() {
           <Link to="/resume">Resume</Link>
         </div>
         <div className="logo">
-        <Link to="https://www.linkedin.com/in/jennifer-heckel/" className="logolink"><img src={LinkedInLogo} alt="LinkedIn" className="logolink" /></Link>
-        <Link to="https://github.com/jhope314" className="logolink"><img src={GitHubLogo} alt="GitHub" className="logolink"/></Link>
+        <button className="logolink"><img src={LinkedInLogo} alt="LinkedIn Logo" className="logolink" onClick={openLinkedIn}/></button>
+        <button className="logolink"><img src={GitHubLogo} alt="GitHub Logo" className="logolink" onClick={openGitHub}/></button>
         </div>
       </header>
       <AnimatePresence mode="wait">
