@@ -2,7 +2,7 @@ const Bio = () => {
   return (
     <div>
       <p>
-        I am a full-stack developer and recent graduate of Mathematics at the
+        I'm a developer and recent graduate of Mathematics at the
         University of Waterloo and Business at Wilfrid Laurier University.
       </p>
       <p>
