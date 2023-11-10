@@ -12,6 +12,7 @@ const ResumeContent = () => {
         <li>CSS</li>
         <li>HTML</li>
         <li>Bash script in Linux environment</li>
+        <li>Git</li>
         <li>SQL</li>
         <li>Microsoft Excel</li>
         <li>Power BI</li>
