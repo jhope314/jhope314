@@ -11,8 +11,9 @@ const ResumeContent = () => {
         <li>TypeScript</li>
         <li>CSS</li>
         <li>HTML</li>
-        <li>Bash script in Linux environment (Level II)</li>
+        <li>Bash script in Linux environment</li>
         <li>SQL</li>
+        <li>Microsoft Excel</li>
         <li>Power BI</li>
         <li>R</li>
       </ul>
