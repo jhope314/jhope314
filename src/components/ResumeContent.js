@@ -5,14 +5,16 @@ const ResumeContent = () => {
     <div className="resume-content">
       <h2 className="list-header">S K I L L S </h2>
       <ul id="skills">
-        <li>Python (Level III)</li>
-        <li>React (Level II)</li>
-        <li>JavaScript (Level II)</li>
-        <li>CSS (Level II)</li>
-        <li>HTML (Level II)</li>
+        <li>Python</li>
+        <li>React</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>CSS</li>
+        <li>HTML</li>
         <li>Bash script in Linux environment (Level II)</li>
-        <li>SQL (Level I)</li>
-        <li>R (Level I)</li>
+        <li>SQL</li>
+        <li>Power BI</li>
+        <li>R</li>
       </ul>
 
       <h2 className="list-header">E D U C A T I O N </h2>

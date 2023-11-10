@@ -3,7 +3,7 @@ import "./Resume.css";
 import { useState } from "react";
 import ResumeContent from "./ResumeContent";
 import CoverLetterContent from "./ResumeCoverLetter";
-import ResumeFile from "../downloads/Heckel_Jennifer_Resume_Technical_2023_August.pdf";
+import ResumeFile from "../downloads/Heckel_Jennifer_Resume_Technical_2023_Oct.pdf";
 import CVFile from "../downloads/Heckel_Jennifer_Cover_Letter.pdf"
 
 
