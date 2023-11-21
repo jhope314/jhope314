@@ -3,7 +3,7 @@ import WelcomePage from "./components/WelcomePage";
 import About from "./components/About";
 import Resume from "./components/Resume";
 import Projects from "./components/Projects";
-import { Routes, Route, Link, useLocation } from "react-router-dom";
+import { Routes, Route, Link, useLocation, Navigate } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import LinkedInLogo from "./images/linkedinlogo.png";
 import GitHubLogo from "./images/github.png";
@@ -38,6 +38,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path='/' element={<Navigate to='/jhope314' />} />
         </Routes>
       </AnimatePresence>
     </div>
