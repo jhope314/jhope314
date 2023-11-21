@@ -11,6 +11,8 @@ import GitHubLogo from "./images/github.png";
 function App() {
   const location = useLocation();
 
+  console.log("this is definitely newww")
+
   const openLinkedIn = () => {
     window.open("https://www.linkedin.com/in/jennifer-heckel/", "_blank")
   };
