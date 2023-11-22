@@ -54,3 +54,14 @@ hr {
     height: auto;
     border-radius: 50%;
 }
+
+.signature {
+    max-width: 50%;
+    display: flex;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.thanks {
+    padding-top: 2rem;
+}

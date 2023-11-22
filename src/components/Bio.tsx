@@ -20,8 +20,7 @@ const Bio = () => {
         my skills into the workforce. Please feel free to browse my resume to
         see my education, skills, and work history in more detail.
       </p>
-      <p>Thank you,</p>
-      <p>Jennifer Heckel</p>
+      <p className="thanks">Thank you,</p>
     </div>
   );
 };

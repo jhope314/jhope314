@@ -1,6 +1,7 @@
 import "./About.css";
 import Bio from "./Bio";
 import Self from "../images/Self.jpg";
+import Signature from "../images/signature.png";
 import { motion } from "framer-motion";
 
 const About = () => {
@@ -18,6 +19,7 @@ const About = () => {
             </div>
         <hr className="underline"/>
         <Bio />
+        <img src={Signature} alt="Jennifer Heckel" className="signature"></img>
       </div>
       <div className="picture">
         <img src={Self}  alt="" className="self"></img>
